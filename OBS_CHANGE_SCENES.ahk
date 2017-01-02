@@ -1,5 +1,6 @@
 ;autor   : Capn Odin
 ;original: https://autohotkey.com/boards/viewtopic.php?f=18&t=17281
+
 Switched := -1
 SetTimer, WinChange, 1000
 return
